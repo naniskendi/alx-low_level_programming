@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main -entry point
- * descrption: program starts and ends here 
+ * main -entry point 
  * @void: no argument
+ * Description: program starts and ends here 
  * return : 0 to exit
  */
 int main(void)
