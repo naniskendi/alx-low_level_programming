@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main -entry point
- * programming the first function
+ * descrption: program starts and ends here 
  * @void: no argument
  * return : 0 to exit
  */
