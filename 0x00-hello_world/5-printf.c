@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - main function enter here
- * @void: no urgument
- * return: value 0 to exit
+ * main - Entry point
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
