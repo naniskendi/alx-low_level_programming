@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - main function enter here
  * @void: no urguments
  * description: program starts here and ends here
  * return: value 0 to exit
