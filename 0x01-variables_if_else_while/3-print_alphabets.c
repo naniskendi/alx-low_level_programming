@@ -14,5 +14,6 @@ for (m = 'A'; m <= 'z';)
 {
 putchar(m);
 }
+putchar(10)
 return (0);
 }
