@@ -5,11 +5,11 @@
 /**
  * main - This function checks whether a random number assigned to n
  * is positive or negative
- * Return: the function returns 0
+ * Return: returns 0 success
  */
 int main(void)
 {
-int n;
+int n=10;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
