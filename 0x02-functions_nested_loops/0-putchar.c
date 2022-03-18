@@ -1,4 +1,4 @@
-#include "nanis"
+#include <stdio.h>
 
 /**
  * main - the function starts here
@@ -6,13 +6,14 @@
  */
 int main(void)
 {
-_putchar('n');
-_putchar('a');
-_putchar('n');
-_putchar('i');
-_putchar('s');
-_putchar('\n');
-return 0;
+char txt[8] = "_putchar";
+int i;
+for (i = 0; i < 8; i++)
+	{
+	putchar(txt[i]);
+	}
+	putchar('\n');
+	return 0;
 }
 
 
