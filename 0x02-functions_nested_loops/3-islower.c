@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * main - check the code
@@ -7,7 +7,7 @@ nclude "main.h"
  */
 int _islower(int c);
 {
-	if (c >= 97 && c <= 122)
+	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}
