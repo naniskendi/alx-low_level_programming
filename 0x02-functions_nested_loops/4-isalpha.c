@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * main- main function here
  * @c: The character to be checked
