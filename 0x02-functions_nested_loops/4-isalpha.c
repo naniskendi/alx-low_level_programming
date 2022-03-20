@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main- main function here
  * @c: The character to be checked
@@ -6,7 +7,7 @@
  */
 int _isalpha(int c)
 {
-	if ((c => 'a' && c <= 'z') || (c => 'A' && c <= 'Z'))
+	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	{
 		return (1);
 	}
