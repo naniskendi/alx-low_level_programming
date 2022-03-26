@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /**
- * main - This function checks whether a random number assigned to n
- * is positive or negative
- * Return: returns 0 success
- */
+* main - This function checks whether number is positive, negative or zero
+* 
+* Return: returns 0 success
+*/
 int main(void)
 {
 int n;
