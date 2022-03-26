@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - check the code lowercase character.
  *
- * Return: Always 0.
+ * Return: Always 0 (success)
  */
 int _islower(int c)
 {
@@ -16,5 +16,5 @@ int _islower(int c)
 	{
 		return (0);
 	}
-}	
+}
 
