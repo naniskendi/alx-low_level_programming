@@ -2,16 +2,13 @@
 
 /**
  * add - adds two integers
- * @m: first number
- * @n: first number
+ * @m: added to n
+ * @n: added to m
  *
  * Return: return the sum.
  */
-int add(int, int);
+int add(int m, int n)
 {
-	int sum;
-
-	sum = n + m;
-	return (sum);
+	return(m + n);
 }
 
