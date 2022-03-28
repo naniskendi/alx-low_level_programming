@@ -2,10 +2,11 @@
 
 /**
  * _abs - gives absolute value of an integer.
+ * @i: integer to be passed 
  *
- * @i: integer to be passed
+ * Return: absolute value.
  */
-int _abs(int)
+int _abs(int i)
 {
 	if (i >= 0)
 	{
